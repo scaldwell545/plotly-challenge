@@ -1,5 +1,10 @@
 # plotly-challenge
 
+## Deployment
+
+https://scaldwell545.github.io/plotly-challenge
+
+
 
 ### 1. Use the D3 library to read in `samples.json`.
 
