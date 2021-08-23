@@ -1,1 +1,1 @@
-# plotly-challenge
+# interactive-visualizations-challenge
